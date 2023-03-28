@@ -5,12 +5,52 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b4e0c94-da64-4127-9596-b39f5e881a56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/beans/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/beans/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/beans/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/bootstraps/BootstrapData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/controllers/CommentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/controllers/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/repositories/CommentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/repositories/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/services/CommentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/services/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/board/board/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/components/models/comment.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/components/models/post.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/components/models/user.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/components/post-list/post.services.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/components/user-list/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/src/app/services/comment.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -32,17 +72,39 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/bhand/Documents/GitHub/board/src/main/webapp/src/app/components/user-list",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "1145f263256c923716d2b8eade2f6689",
+    "ts.external.directory.path": "C:\\Users\\bhand\\Documents\\GitHub\\board\\src\\main\\webapp\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\components\user-list" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\components\post-list" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\java\com\board\board\bootstraps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\components\post-details" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\components" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\models" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\models\post" />
+      <recent name="C:\Users\bhand\Documents\GitHub\board\src\main\webapp\src\app\models\comment" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="BoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="board" />
@@ -60,7 +122,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679986662055</updated>
-      <workItem from="1679986664607" duration="630000" />
+      <workItem from="1679986664607" duration="8952000" />
+      <workItem from="1680005055415" duration="5291000" />
     </task>
     <servers />
   </component>
